@@ -1,0 +1,4 @@
+repository "RpSoccer2024@GtznuteGC@cloud"
+  path "/"
+    br "/main"
+    co "/main"
